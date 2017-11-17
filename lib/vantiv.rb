@@ -6,6 +6,7 @@ require 'vantiv/api'
 require 'vantiv/test_card'
 require 'vantiv/test_temporary_token'
 require 'vantiv/environment'
+require 'vantiv/response'
 require 'vantiv/mocked_sandbox'
 require 'vantiv/paypage'
 
